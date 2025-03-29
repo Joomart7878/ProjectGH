@@ -11,6 +11,7 @@ public class week1 {
 
         Scanner sc = new Scanner(System.in);
 //        int guess = sc.nextInt();
+//
 
         int guess = -1;
         while (guess != number){
