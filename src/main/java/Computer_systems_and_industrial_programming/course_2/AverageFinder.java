@@ -3,7 +3,7 @@ package Computer_systems_and_industrial_programming.course_2;
 public class AverageFinder {
     public static void  main(String[] args){
         System.out.println("Average Finder");
-        double avg = findAverage(args);
+        double avg = findAverage(new String[]{"1", "70"});
         System.out.println("The average is " + avg);
     }
 
