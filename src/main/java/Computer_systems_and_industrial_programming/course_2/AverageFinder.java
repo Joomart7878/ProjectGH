@@ -5,6 +5,7 @@ public class AverageFinder {
         System.out.println("Average Finder");
         double avg = findAverage(new String[]{"1", "70"});
         System.out.println("The average is " + avg);
+        System.out.println(avg + " - is the real average");
     }
 
     static double findAverage(String[] input) {
