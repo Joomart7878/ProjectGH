@@ -17,7 +17,7 @@ public class AverageFinder {
         for (String s : input) {
             result += Integer.parseInt(s);
         }
-
+//
         return result / input.length;
     }
 }
