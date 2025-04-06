@@ -1,4 +1,4 @@
-package org.java.week_1;
+package org.java.home_works.week_1;
 
 import java.util.Random;
 import java.util.Scanner;
