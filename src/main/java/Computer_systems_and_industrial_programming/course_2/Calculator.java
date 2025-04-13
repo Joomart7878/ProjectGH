@@ -8,8 +8,9 @@ public class Calculator {
                 .sum();
     }
 
-    static double multiply (double... operands) {
-        return DoubleStream.of(operands)
+    static double multiply (double... numbers) {
+        return DoubleStream.of(numbers)
                 .reduce(1, (a, b) -> a * b);
+        // 2, 3, 4 => 2*3*4
     }
 }
