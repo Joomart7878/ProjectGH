@@ -20,7 +20,7 @@ class CalculatorTest {
     }
 
     @Test
-    void add() {
+    void calculateMultipleAdd() {
         assertAll( () -> assertEquals(-5, Calculator.add(-7, 2)),
                 () -> assertEquals(2, Calculator.add(1, 1)),
                 () -> assertEquals(10, Calculator.add(1, 5, 4)));
