@@ -28,7 +28,9 @@ class CalculatorTest {
     }
     @Test
     void multiply() {
-        double multipliedAnswer = Calculator.multiply(44,2);
-        assertEquals(88, multipliedAnswer);
+        assertAll(() -> assertEquals(25, Calculator.multiply(5,5)),
+                () -> assertEquals(50, Calculator.multiply(10,5)),
+                () -> assertEquals(1000, Calculator.multiply(100,10)));
+
     }
 }
