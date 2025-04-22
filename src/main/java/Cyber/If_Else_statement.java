@@ -25,5 +25,19 @@ public class If_Else_statement {
         } else {
             System.out.println("Access denied");
         }
+
+        System.out.println("Enter your current speed");
+        int speed = sc.nextInt();
+        if (speed > 60) {
+            System.out.println("Slow down");
+            speed -= 5;
+            System.out.println(speed >= 60);
+            speed = 50;
+            System.out.println("Drive at 50 then");
+            System.out.println(speed);
+        } else {
+            System.out.println("Keep driving");
+        }
+
     }
 }
