@@ -30,14 +30,11 @@ public class If_Else_statement {
         int speed = sc.nextInt();
         if (speed > 60) {
             System.out.println("Slow down");
-            speed -= 5;
-            System.out.println(speed >= 60);
-            speed = 50;
-            System.out.println("Drive at 50 then");
-            System.out.println(speed);
+            int diff = speed - 60;
+            speed -= diff;
         } else {
             System.out.println("Keep driving");
         }
-
+        System.out.println(speed);
     }
 }
