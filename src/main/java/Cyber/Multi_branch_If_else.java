@@ -27,5 +27,18 @@ public class Multi_branch_If_else {
         } else {
             System.out.println("Soorry, this store only for big size");
         }
+
+        System.out.println("Enter number");
+        int number = sc.nextInt();
+
+        if (number >= 0 && number <= 100) {
+            System.out.println("Number is between 0 and 100");
+        } else if (number > 100 && number <= 1000) {
+            System.out.println("Number is between 100 and 1000");
+        } else if (number > 1000 && number <= 1000000) {
+            System.out.println("Number is between 1000 and 1000000");
+        } else {
+            System.out.println("Number is either negative or more than million");
+        }
     }
 }
