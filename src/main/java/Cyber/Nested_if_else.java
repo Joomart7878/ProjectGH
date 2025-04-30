@@ -45,7 +45,7 @@ public class Nested_if_else {
                 System.out.println("The coffee price is " + priceColdCoffee + "$");
             }
         } else {
-            System.out.println("Invalid selection");
+            System.out.println("Invalid selection, try again!");
         }
     }
 }
