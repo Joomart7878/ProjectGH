@@ -21,9 +21,9 @@ public class If_statement {
             System.out.println("Welcome agent!");
         }
 
-        int books = 50;
+        int books = 500;
 
-        if (books < 100) {
+        if (books < 500) {
             books += 5;
             System.out.println(books);
         }
