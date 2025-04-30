@@ -21,11 +21,11 @@ public class Multi_branch_If_else {
         int size = sc.nextInt();
 
         if(size > 12) {
-            System.out.println("Sorry, is not in stock");
+            System.out.println("Sorry, it is not in stock");
         } else if (size >= 6) {
-            System.out.println("Is in stock");
+            System.out.println("It is in stock");
         } else {
-            System.out.println("Soorry, this store only for big size");
+            System.out.println("Sorry, this store only for serves for big size");
         }
 
         System.out.println("Enter number");
