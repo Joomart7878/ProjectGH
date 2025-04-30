@@ -10,7 +10,7 @@ public class Precedence_logical_operators {
 //                          true    or     false
         System.out.println(!(false) || true && false);  // true
 
-        boolean bool = !(1 < 8 && (5 > 2 || 3 < 5));  // false
+        boolean bool = !(10 < 8 && (5 > 2 || 3 < 5));  // true
 
         System.out.println(bool);
 
