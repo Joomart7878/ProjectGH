@@ -24,5 +24,11 @@ public class Ternary_conditon {
         int bill = 2000;
         int discount = (bill >= 2000) ? 15 : 10;
         System.out.println(discount);
+
+        String city;
+        boolean island = false;
+
+        city = (island) ? "Redang" : "Kuala Lumpur";
+        System.out.println(city);
     }
 }
