@@ -24,5 +24,15 @@ public class While_looping {
             System.out.print(count + ", ");
             count+=2;
         }
+
+        int total = 0;
+        System.out.println("Enter positive number");
+        int next = sc.nextInt();
+
+        while (next > 0) {
+            total = total + next;
+            next = sc.nextInt();
+        }
+        System.out.println("Sum of all numbers: " + total);
     }
 }
