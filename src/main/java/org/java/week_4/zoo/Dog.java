@@ -1,4 +1,4 @@
-package org.java.week_4;
+package org.java.week_4.zoo;
 
 public class Dog extends Animal {
 //    public
@@ -9,7 +9,7 @@ public class Dog extends Animal {
     public Dog(String name) {
         this.name = name;
     }
-    public void bark(){
-        System.out.println(this.name + " barked");
+    public void makeSound(){
+        System.out.println(this.name + " barked!");
     }
 }

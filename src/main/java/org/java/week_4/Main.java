@@ -1,15 +1,20 @@
 package org.java.week_4;
 
+import org.java.week_4.zoo.Animal;
+import org.java.week_4.zoo.Cat;
+import org.java.week_4.zoo.Dog;
+
 public class Main {
+    public static void makeItSound (Animal animal) {
+        animal.makeSound();
+    }
     public static void main(String[] args) {
 
         Dog bobby = new Dog("Bobby");
-//        bobby.name = "Bobby";
+        Cat dong = new Cat("Dong");
 
-        bobby.bark();
+        makeItSound(bobby);
+        makeItSound(dong);
 
-        Dog buddy = new Dog("Buddy");
-//        buddy.name = "Buddy";
-        buddy.bark();
     }
 }
