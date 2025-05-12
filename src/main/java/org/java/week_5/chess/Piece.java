@@ -1,6 +1,8 @@
-package org.java.week_4.chess;
+package org.java.week_5.chess;
 
-public class Piece {
+import java.util.Objects;
+
+public abstract class Piece {
     protected int x, y;
     protected String color;
 
@@ -28,9 +30,9 @@ public class Piece {
         this.color = color;
     }
 
-    public boolean canMove(int nx, int ny) {
-        return false;
-    }
+    public abstract boolean canMove(int nx, int ny);
+
+    public abstract String name();
 
     public void move(int nx, int ny) {
         if (canMove(nx, ny)) {
@@ -39,9 +41,9 @@ public class Piece {
         }
     }
 
-    public boolean canBeat(int nx, int ny) {
-        return false;
-    }
+    public abstract boolean canBeat(int nx, int ny);
+
+    public abstract String getPieceName();
 
     public void beat(int nx, int ny) {
         if (canBeat(nx, ny)) {
@@ -49,8 +51,21 @@ public class Piece {
             this.y = ny;
         }
     }
+
     @Override
     public String toString() {
         return "x = " + this.x + "; " + "y = " + this.y;
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (o == null || getClass() != o.getClass()) return false;
+        Piece piece = (Piece) o;
+        return Objects.equals(getPieceName(), piece.getPieceName()) && Objects.equals(color, piece.color);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(getPieceName(), color);
     }
 }
