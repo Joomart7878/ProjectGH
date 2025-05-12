@@ -1,11 +1,10 @@
 package org.java.week_4;
 
-public class Dog {
+public class Dog extends Animal {
 //    public
 //    private
 //    package-private (default)
 //    protected
-    public String name;
 
     public Dog(String name) {
         this.name = name;
