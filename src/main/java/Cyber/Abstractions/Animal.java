@@ -1,7 +1,8 @@
 package Cyber.Abstractions;
 
-public class Animal {
-    void eat(){
-        System.out.println("Animal is eating");
-    }
+public abstract class Animal {
+
+    abstract void eat();
+
+    abstract void breath();
 }

@@ -1,8 +1,16 @@
 package Cyber.Abstractions;
 
 public class Dog extends Animal{
+
     @Override
     void eat() {
-        System.out.println("Dog is eating meet");
+        System.out.println("Dog Food");
     }
+
+    @Override
+    void breath() {
+        System.out.println("Fish is breathing under water");
+    }
+
 }
+
