@@ -1,4 +1,4 @@
-package Cyber.Abstractions;
+package Cyber.abstractions;
 
 public abstract class Animal {
 
