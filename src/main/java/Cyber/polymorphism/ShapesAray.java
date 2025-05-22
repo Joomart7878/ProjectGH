@@ -8,7 +8,9 @@ public class ShapesAray {
         shapes[1] = new Triangle();
         shapes[2] = new Circle();
 
+
         for (Shape sh : shapes) {
+            System.out.println(sh.getClass().getName());
             sh.draw();
         }
     }
