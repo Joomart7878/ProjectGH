@@ -20,6 +20,7 @@ public class ArraVSArrayList {
         numberList.add(40);
         numberList.add(50);
 
-        System.out.println(numberList);
+        System.out.println(numberList.get(0));
+        System.out.println(numsArray[3]);
     }
 }
