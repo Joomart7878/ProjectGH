@@ -16,6 +16,8 @@ public class VectorExample {
             System.out.println(str);
         }
 
+        System.out.println(vector.size());
+        System.out.println(vector.get(2));
 
     }
 }
