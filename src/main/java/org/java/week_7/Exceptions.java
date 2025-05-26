@@ -1,6 +1,9 @@
 package org.java.week_7;
 
 public class Exceptions {
+    public Exceptions(String s) {
+    }
+
     private static void printHelloForUnderage(int age, String name) {
         System.out.println("Hello for children: " + name);
     }
