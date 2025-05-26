@@ -1,11 +1,12 @@
 package org.java.week_7;
 
 import java.io.BufferedReader;
+import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 
 public class ReadFileExample {
-    void readFile(String fileName) {
+    static void readFile(String fileName) throws FileNotFoundException {
         FileReader in = new FileReader(fileName);
 
         BufferedReader br = new BufferedReader(in);
