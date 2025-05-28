@@ -1,13 +1,22 @@
 package org.java.week_5.chess;
 
+import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
-//        Piece p1 = new Knight(2,1,"white");
-//        Piece p2 = new Pawn(3,3,"black");
-//
-//        p1.beat(p2.getX(), p2.getY());
-//        System.out.println(p1);
         Game game = new Game();
-        game.printBoard();
+        Scanner sc = new Scanner(System.in);
+        while (true) {
+            game.printBoard();
+            String from = sc.next(); // Letter + Number; A7 -> 0, 6
+            String to = sc.next();
+
+            try {
+                game.validateMoves(from, to);
+            } catch (GameException e) {
+                System.out.println(e.getMessage());
+                System.out.println("retry!");
+            }
+        }
     }
 }
