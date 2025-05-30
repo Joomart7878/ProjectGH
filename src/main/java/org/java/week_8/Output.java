@@ -10,9 +10,9 @@ public class Output {
             os.flush();
         }
 
-//        try (Writer writer = new FileWriter("src/week8/output_writer.txt")) {
-//            writer.write("привет мир!");
-//            writer.flush();
-//        }
+        try (Writer writer = new FileWriter("src/main/java/org/java/week_8/output_writer.txt")) {
+            writer.write("привет мир!");
+            writer.flush();
+        }
     }
 }
