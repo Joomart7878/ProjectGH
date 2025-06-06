@@ -1,6 +1,8 @@
 package org.java.week_9;
 
-public class Person extends Human{
+import java.io.Serializable;
+
+public class Person extends Human implements Serializable {
 
     private String name;
     private String address;

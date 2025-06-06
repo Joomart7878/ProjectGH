@@ -1,6 +1,8 @@
 package org.java.week_9;
 
-public class Human {
+import java.io.Serializable;
+
+public class Human implements Serializable {
     private int age;
 
     public Human(int age) {
