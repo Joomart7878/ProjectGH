@@ -1,24 +1,53 @@
 package org.java.home_works.informatics.arrays;
 
+import java.util.ArrayList;
 import java.util.Scanner;
+import java.util.Stack;
 
 public class O_zuma {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
 
-        int dividers = 0;
-        int prev = -1;
 
+        ArrayList<Integer> balls = new ArrayList<>();
         for (int i = 0; i < n; ++i) {
             int x = sc.nextInt();
-            if (i == 0) {
+            balls.add(x);
+        }
+
+        Stack<Integer> stack = new Stack<>();
+
+        for (int i = 0; i < n; ++i) {
+            stack.add(balls.get(i));
+            if (stack.size() < 3) {
                 continue;
             }
-            if (x != prev) {
-                dividers++;
+            int a = stack.pop();
+            int b = stack.pop();
+            int c = stack.pop();
+
+            if (a != b || a != c) {
+                stack.add(c);
+                stack.add(b);
+                stack.add(a);
+                continue;
             }
-            prev = x;
+            while (i < n) {
+                if (balls.get(i) != a) {
+                    break;
+                }
+                i++;
+            }
+            i--;
         }
+        while (!stack.isEmpty()) {
+            System.out.println(stack.pop());
+        }
+
+        for (int s : stack) {
+            System.out.printf("%n ", s);
+        }
+        System.out.println();
     }
 }
