@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e3f28ffb-9cd8-4fcb-9eeb-1fe649967838" name="Changes" comment="sort by frequency from leetcode">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Discret_Math/home_works/Java/solutions/Buy_And_Sell_Stocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Discret_Math/home_works/Java/solutions/Number_of_1_Bits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Discret_Math/home_works/Java/solutions/Revers_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Discret_Math/home_works/Java/solutions/Single_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Discret_Math/home_works/Java/solutions/Snake_in_Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Discret_Math/home_works/Java/solutions/Valid_Anagram.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Exception" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Joomart7878&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Joomart7878/ProjectGH.git&quot;,
+    &quot;accountId&quot;: &quot;90e706b8-3dac-4546-93b6-17920390884d&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2uuctHoXN368HXSBJASIfd0XUNo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.A_even_nums.executor&quot;: &quot;Run&quot;,
+    &quot;Application.A_gipotenuza.executor&quot;: &quot;Run&quot;,
+    &quot;Application.A_max_value.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArraVSArrayList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AverageFinder.executor&quot;: &quot;Run&quot;,
+    &quot;Application.B_leap_year.executor&quot;: &quot;Run&quot;,
+    &quot;Application.B_redo_the_wrok.executor&quot;: &quot;Run&quot;,
+    &quot;Application.B_reminder_range.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BigAdd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C_delej_yablok_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C_kvadraty.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C_testing_system.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CalculatorTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CarpetTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountableTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.D_delej_yablok_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.D_number_sign.executor&quot;: &quot;Run&quot;,
+    &quot;Application.D_sum_of_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DinnerTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Do_while_loop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E_bigger_lower.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E_mkad.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E_sum_of_zeros.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exceptions.executor&quot;: &quot;Run&quot;,
+    &quot;Application.F_biggest_out_of_three.executor&quot;: &quot;Run&quot;,
+    &quot;Application.F_last_number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.F_zeros_pos_negat.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.For_loop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.For_loop_a.executor&quot;: &quot;Run&quot;,
+    &quot;Application.For_loops_fruits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.G_chislo_desitkov_dvuznach_chisla.executor&quot;: &quot;Run&quot;,
+    &quot;Application.G_rook_chess.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GenerateBitmasks.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GreetSomebody.executor&quot;: &quot;Run&quot;,
+    &quot;Application.H_chislo_desiatkov.executor&quot;: &quot;Run&quot;,
+    &quot;Application.H_slon.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashSetOfProducts.executor&quot;: &quot;Run&quot;,
+    &quot;Application.I_ferz.executor&quot;: &quot;Run&quot;,
+    &quot;Application.I_summa_cifr.executor&quot;: &quot;Run&quot;,
+    &quot;Application.If_Else_statement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.If_statement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InstanceOf.executor&quot;: &quot;Run&quot;,
+    &quot;Application.J_next_even.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JsonExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.K_elektronnye_chasy.executor&quot;: &quot;Run&quot;,
+    &quot;Application.L_chovolate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.L_electronnye_chasy_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedlistExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ListExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Logical_operators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LoopArrayList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LoopMap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LoopWithIterator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.M_change_places.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MapExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Multi_branch_If_else.executor&quot;: &quot;Run&quot;,
+    &quot;Application.N_super_shift.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Nested_if_else.executor&quot;: &quot;Run&quot;,
+    &quot;Application.O_price.executor&quot;: &quot;Run&quot;,
+    &quot;Application.O_zuma.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Output.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Paint.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PersonTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Precedence_logical_operators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.QueuExampele.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SetExamples.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ShapesAray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Simple.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortByFrequency.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StackExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringIteration.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StudentTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Switch_statement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ternary_conditon.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestShape.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VectorExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.While_looping.executor&quot;: &quot;Run&quot;,
+    &quot;Application.gipotenuza.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.java.week_4.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.java.week_4.bank.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.java.week_4.chess.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.java.week_5.abstract_classes.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.java.week_5.abstract_classes.bank.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.java.week_5.chess.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.java.week_6.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.java.week_7.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.java.week_8.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sled_predydushee.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
+    &quot;JUnit.CalculatorTest.addNegatives.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CalculatorTest.addZero.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CalculatorTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/IdeaProjects/ProjectGH/src/main/java/Discret_Math/home_works&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.archetype.catalogs&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\ProjectGH\src\main\java\Discret_Math\home_works\week_6_hw" />
+      <recent name="C:\Users\user\IdeaProjects\ProjectGH\src\main\java\Discret_Math\home_works\week_5_hw" />
+      <recent name="C:\Users\user\IdeaProjects\ProjectGH\src\main\java\Discret_Math\home_works\week_4_hw" />
+      <recent name="C:\Users\user\IdeaProjects\ProjectGH\src\main\java\Discret_Math\home_works\week_3_hw" />
+      <recent name="C:\Users\user\IdeaProjects\ProjectGH\src\main\java\Discret_Math\home_works" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.java.week_4.zoo" />
+      <recent name="org.java.home_works" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Computer_systems_and_industrial_programming.course_2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SortByFrequency">
+    <configuration name="A_gipotenuza" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.java.home_works.informatics.syntax_basics.A_gipotenuza" />
+      <module name="ProjectGH" />
+      <option name="VM_PARAMETERS" value="--enable-native-access=ALL-UNNAMED" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.java.home_works.informatics.syntax_basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BigAdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.java.home_works.informatics.leetcode.BigAdd" />
+      <module name="ProjectGH" />
+      <option name="VM_PARAMETERS" value="--enable-native-access=ALL-UNNAMED" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.java.home_works.informatics.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="L_chovolate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.java.home_works.informatics.conditional_operators.L_chovolate" />
+      <module name="ProjectGH" />
+      <option name="VM_PARAMETERS" value="--enable-native-access=ALL-UNNAMED" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.java.home_works.informatics.conditional_operators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.java.home_works.informatics.leetcode.Palindrome" />
+      <module name="ProjectGH" />
+      <option name="VM_PARAMETERS" value="--enable-native-access=ALL-UNNAMED" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.java.home_works.informatics.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortByFrequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.java.home_works.informatics.leetcode.SortByFrequency" />
+      <module name="ProjectGH" />
+      <option name="VM_PARAMETERS" value="--enable-native-access=ALL-UNNAMED" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.java.home_works.informatics.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <module name="ProjectGH" />
+      <option name="VM_PARAMETERS" value="--enable-native-access=ALL-UNNAMED" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="ProjectGH" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea --enable-native-access=ALL-UNNAMED" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.BigAdd" />
+      <item itemvalue="Application.Palindrome" />
+      <item itemvalue="Application.SortByFrequency" />
+      <item itemvalue="Application.L_chovolate" />
+      <item itemvalue="Application.A_gipotenuza" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SortByFrequency" />
+        <item itemvalue="Application.Palindrome" />
+        <item itemvalue="Application.BigAdd" />
+        <item itemvalue="Application.L_chovolate" />
+        <item itemvalue="Application.A_gipotenuza" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3f28ffb-9cd8-4fcb-9eeb-1fe649967838" name="Changes" comment="" />
+      <created>1743102115423</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743102115423</updated>
+    </task>
+    <task id="LOCAL-00114" summary="set, treeSet examples">
+      <option name="closed" value="true" />
+      <created>1748000481757</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1748000481757</updated>
+    </task>
+    <task id="LOCAL-00115" summary="loops in arrays">
+      <option name="closed" value="true" />
+      <created>1748001399325</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1748001399325</updated>
+    </task>
+    <task id="LOCAL-00116" summary="hash set exanple">
+      <option name="closed" value="true" />
+      <created>1748023407204</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1748023407204</updated>
+    </task>
+    <task id="LOCAL-00117" summary="loop map">
+      <option name="closed" value="true" />
+      <created>1748023424505</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1748023424505</updated>
+    </task>
+    <task id="LOCAL-00118" summary="loop iterator">
+      <option name="closed" value="true" />
+      <created>1748023439845</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1748023439845</updated>
+    </task>
+    <task id="LOCAL-00119" summary="map example">
+      <option name="closed" value="true" />
+      <created>1748023452020</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1748023452020</updated>
+    </task>
+    <task id="LOCAL-00120" summary="exception class">
+      <option name="closed" value="true" />
+      <created>1748184521458</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1748184521458</updated>
+    </task>
+    <task id="LOCAL-00121" summary="add ageException">
+      <option name="closed" value="true" />
+      <created>1748184593127</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1748184593127</updated>
+    </task>
+    <task id="LOCAL-00122" summary="readfile class">
+      <option name="closed" value="true" />
+      <created>1748184604788</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1748184604788</updated>
+    </task>
+    <task id="LOCAL-00123" summary="add gender exception">
+      <option name="closed" value="true" />
+      <created>1748184769526</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1748184769526</updated>
+    </task>
+    <task id="LOCAL-00124" summary="add try catch">
+      <option name="closed" value="true" />
+      <created>1748271345404</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1748271345404</updated>
+    </task>
+    <task id="LOCAL-00125" summary="add error wraper">
+      <option name="closed" value="true" />
+      <created>1748271688714</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1748271688714</updated>
+    </task>
+    <task id="LOCAL-00126" summary="extend exceptions with static methods">
+      <option name="closed" value="true" />
+      <created>1748271714265</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1748271714265</updated>
+    </task>
+    <task id="LOCAL-00127" summary="add main class">
+      <option name="closed" value="true" />
+      <created>1748271728687</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1748271728687</updated>
+    </task>
+    <task id="LOCAL-00128" summary="readfile class">
+      <option name="closed" value="true" />
+      <created>1748271743581</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1748271743581</updated>
+    </task>
+    <task id="LOCAL-00129" summary="change the path for the filename">
+      <option name="closed" value="true" />
+      <created>1748271836401</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1748271836401</updated>
+    </task>
+    <task id="LOCAL-00130" summary="add exceptions">
+      <option name="closed" value="true" />
+      <created>1748362319526</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1748362319526</updated>
+    </task>
+    <task id="LOCAL-00131" summary="create game exception and illegal move exception">
+      <option name="closed" value="true" />
+      <created>1748362418766</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1748362418766</updated>
+    </task>
+    <task id="LOCAL-00132" summary="position class for chess and illegal postion exception">
+      <option name="closed" value="true" />
+      <created>1748362451431</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1748362451431</updated>
+    </task>
+    <task id="LOCAL-00133" summary="add boardcell class to handle the move">
+      <option name="closed" value="true" />
+      <created>1748362471271</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1748362471271</updated>
+    </task>
+    <task id="LOCAL-00134" summary="now add a game class itself">
+      <option name="closed" value="true" />
+      <created>1748362492027</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1748362492027</updated>
+    </task>
+    <task id="LOCAL-00135" summary="add main class for chess to handle the printings">
+      <option name="closed" value="true" />
+      <created>1748448930485</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1748448930486</updated>
+    </task>
+    <task id="LOCAL-00136" summary="add an input text">
+      <option name="closed" value="true" />
+      <created>1748444793518</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1748444793519</updated>
+    </task>
+    <task id="LOCAL-00137" summary="add main to check the reader file">
+      <option name="closed" value="true" />
+      <created>1748444816202</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1748444816202</updated>
+    </task>
+    <task id="LOCAL-00138" summary="create an input class and move to it's class">
+      <option name="closed" value="true" />
+      <created>1748533170494</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1748533170494</updated>
+    </task>
+    <task id="LOCAL-00139" summary="add an output file exception reader">
+      <option name="closed" value="true" />
+      <created>1748535107860</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1748535107860</updated>
+    </task>
+    <task id="LOCAL-00140" summary="add add text fiels">
+      <option name="closed" value="true" />
+      <created>1748535125768</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1748535125769</updated>
+    </task>
+    <task id="LOCAL-00141" summary="change the main class">
+      <option name="closed" value="true" />
+      <created>1748535141576</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1748535141576</updated>
+    </task>
+    <task id="LOCAL-00142" summary="change the path to the file">
+      <option name="closed" value="true" />
+      <created>1748621739738</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1748621739740</updated>
+    </task>
+    <task id="LOCAL-00143" summary="create buffered class">
+      <option name="closed" value="true" />
+      <created>1748622491215</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1748622491215</updated>
+    </task>
+    <task id="LOCAL-00144" summary="create scanner class">
+      <option name="closed" value="true" />
+      <created>1748622994003</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1748622994003</updated>
+    </task>
+    <task id="LOCAL-00145" summary="javaNio class with the fruit texts in the file">
+      <option name="closed" value="true" />
+      <created>1748624717007</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1748624717007</updated>
+    </task>
+    <task id="LOCAL-00146" summary="chocloate from informatics">
+      <option name="closed" value="true" />
+      <created>1748970731580</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1748970731581</updated>
+    </task>
+    <task id="LOCAL-00147" summary="create 2 classes for week9">
+      <option name="closed" value="true" />
+      <created>1749214053372</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1749214053373</updated>
+    </task>
+    <task id="LOCAL-00148" summary="add constuctors and set get to person">
+      <option name="closed" value="true" />
+      <created>1749214233629</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1749214233629</updated>
+    </task>
+    <task id="LOCAL-00149" summary="add serialization">
+      <option name="closed" value="true" />
+      <created>1749214851676</created>
+      <option name="number" value="00149" />
+      <option name="presentableId" value="LOCAL-00149" />
+      <option name="project" value="LOCAL" />
+      <updated>1749214851676</updated>
+    </task>
+    <task id="LOCAL-00150" summary="add the path to read the code">
+      <option name="closed" value="true" />
+      <created>1749216333942</created>
+      <option name="number" value="00150" />
+      <option name="presentableId" value="LOCAL-00150" />
+      <option name="project" value="LOCAL" />
+      <updated>1749216333942</updated>
+    </task>
+    <task id="LOCAL-00151" summary="add dependencies and check json file">
+      <option name="closed" value="true" />
+      <created>1749311655830</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1749311655830</updated>
+    </task>
+    <task id="LOCAL-00152" summary="shift right">
+      <option name="closed" value="true" />
+      <created>1749311383249</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
+      <option name="project" value="LOCAL" />
+      <updated>1749311383250</updated>
+    </task>
+    <task id="LOCAL-00153" summary="super shift right with arrays">
+      <option name="closed" value="true" />
+      <created>1749312154414</created>
+      <option name="number" value="00153" />
+      <option name="presentableId" value="LOCAL-00153" />
+      <option name="project" value="LOCAL" />
+      <updated>1749312154416</updated>
+    </task>
+    <task id="LOCAL-00154" summary="two sum from leetcode">
+      <option name="closed" value="true" />
+      <created>1749483352799</created>
+      <option name="number" value="00154" />
+      <option name="presentableId" value="LOCAL-00154" />
+      <option name="project" value="LOCAL" />
+      <updated>1749483352799</updated>
+    </task>
+    <task id="LOCAL-00155" summary="contains duplicate from leetcode">
+      <option name="closed" value="true" />
+      <created>1749487509497</created>
+      <option name="number" value="00155" />
+      <option name="presentableId" value="LOCAL-00155" />
+      <option name="project" value="LOCAL" />
+      <updated>1749487509497</updated>
+    </task>
+    <task id="LOCAL-00156" summary="first unique char from leetcode">
+      <option name="closed" value="true" />
+      <created>1749493445183</created>
+      <option name="number" value="00156" />
+      <option name="presentableId" value="LOCAL-00156" />
+      <option name="project" value="LOCAL" />
+      <updated>1749493445183</updated>
+    </task>
+    <task id="LOCAL-00157" summary="is the string valid from leetcode">
+      <option name="closed" value="true" />
+      <created>1749493468081</created>
+      <option name="number" value="00157" />
+      <option name="presentableId" value="LOCAL-00157" />
+      <option name="project" value="LOCAL" />
+      <updated>1749493468081</updated>
+    </task>
+    <task id="LOCAL-00158" summary="check string from leetcode">
+      <option name="closed" value="true" />
+      <created>1749493482989</created>
+      <option name="number" value="00158" />
+      <option name="presentableId" value="LOCAL-00158" />
+      <option name="project" value="LOCAL" />
+      <updated>1749493482989</updated>
+    </task>
+    <task id="LOCAL-00159" summary="add binary from leetcode">
+      <option name="closed" value="true" />
+      <created>1749579513028</created>
+      <option name="number" value="00159" />
+      <option name="presentableId" value="LOCAL-00159" />
+      <option name="project" value="LOCAL" />
+      <updated>1749579513029</updated>
+    </task>
+    <task id="LOCAL-00160" summary="add binary steps from leetcode">
+      <option name="closed" value="true" />
+      <created>1749579525666</created>
+      <option name="number" value="00160" />
+      <option name="presentableId" value="LOCAL-00160" />
+      <option name="project" value="LOCAL" />
+      <updated>1749579525666</updated>
+    </task>
+    <task id="LOCAL-00161" summary="palindrom from leetcode">
+      <option name="closed" value="true" />
+      <created>1749579542393</created>
+      <option name="number" value="00161" />
+      <option name="presentableId" value="LOCAL-00161" />
+      <option name="project" value="LOCAL" />
+      <updated>1749579542393</updated>
+    </task>
+    <task id="LOCAL-00162" summary="sort by frequency from leetcode">
+      <option name="closed" value="true" />
+      <created>1749579561731</created>
+      <option name="number" value="00162" />
+      <option name="presentableId" value="LOCAL-00162" />
+      <option name="project" value="LOCAL" />
+      <updated>1749579561731</updated>
+    </task>
+    <option name="localTasksCounter" value="163" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="create an input class and move to it's class" />
+    <MESSAGE value="add an output file exception reader" />
+    <MESSAGE value="add add text fiels" />
+    <MESSAGE value="change the main class" />
+    <MESSAGE value="change the path to the file" />
+    <MESSAGE value="create buffered class" />
+    <MESSAGE value="create scanner class" />
+    <MESSAGE value="javaNio class with the fruit texts in the file" />
+    <MESSAGE value="chocloate from informatics" />
+    <MESSAGE value="create 2 classes for week9" />
+    <MESSAGE value="add constuctors and set get to person" />
+    <MESSAGE value="add serialization" />
+    <MESSAGE value="add the path to read the code" />
+    <MESSAGE value="add dependencies and check json file" />
+    <MESSAGE value="shift right" />
+    <MESSAGE value="super shift right with arrays" />
+    <MESSAGE value="two sum from leetcode" />
+    <MESSAGE value="contains duplicate from leetcode" />
+    <MESSAGE value="first unique char from leetcode" />
+    <MESSAGE value="is the string valid from leetcode" />
+    <MESSAGE value="check string from leetcode" />
+    <MESSAGE value="add binary from leetcode" />
+    <MESSAGE value="add binary steps from leetcode" />
+    <MESSAGE value="palindrom from leetcode" />
+    <MESSAGE value="sort by frequency from leetcode" />
+    <option name="LAST_COMMIT_MESSAGE" value="sort by frequency from leetcode" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ProjectGH$Main.ic" NAME="Main Coverage Results" MODIFIED="1743738090390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+    <SUITE FILE_PATH="coverage/ProjectGH$CalculatorTest.ic" NAME="CalculatorTest Coverage Results" MODIFIED="1744777611432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>Computer_systems_and_industrial_programming.course_2.*</FILTER>
+    </SUITE>
+  </component>
+</project>
