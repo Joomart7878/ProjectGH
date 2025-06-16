@@ -8,7 +8,10 @@ public class Convert_1D_Into_2D {
         int[][] arr = new int[n][n];
         int current_index = 0;
         for (int i = 0; i < m; i++) {
-
+            for (int j = 0; j < n; j++) {
+                arr[i][j] = original[current_index];
+                current_index++;
+            }
         }
         return arr;
     }
