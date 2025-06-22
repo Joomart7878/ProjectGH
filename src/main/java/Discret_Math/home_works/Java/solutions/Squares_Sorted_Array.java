@@ -8,7 +8,15 @@ public class Squares_Sorted_Array {
         int left = 0;
         int right = n - 1;
 
-
+        for (int insertPosition = n - 1; insertPosition >= 0; insertPosition--) {
+            if (Math.abs(A[left]) > Math.abs(A[right])) {
+                result[insertPosition] = A[left] * A[right];
+                left++;
+            } else {
+                result[insertPosition] = A[right] * A[right];
+                right--;
+            }
+        }
         return result;
     }
 }
