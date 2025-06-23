@@ -8,7 +8,12 @@ public class Backspace_String_Copare {
     private String build(String str){
         StringBuilder builtStr = new StringBuilder();
         for (char c : str.toCharArray()) {
-
+            if (c != '') {
+                builtStr.append(c);
+            } else {
+                if (builtStr.length() != 0) {
+                    builtStr.deleteCharAt(builtStr.length() - 1);
+                }
             }
         }
         return builtStr.toString();
