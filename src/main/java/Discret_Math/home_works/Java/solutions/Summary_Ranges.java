@@ -6,7 +6,7 @@ import java.util.List;
 public class Summary_Ranges {
     public List<String> summaryRanges(int[] nums) {
         List<String> answer = new ArrayList<>();
-
+        if (nums.length == 0) return answer;
         int range_start = nums[0];
         int range_end = -1;
         for (int i = 1; i < nums.length; i++) {
