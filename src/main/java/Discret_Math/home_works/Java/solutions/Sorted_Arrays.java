@@ -12,6 +12,14 @@ public class Sorted_Arrays {
             } else {
                 answer[p1 + p2] = nums2[p2];
                 p2++;
+            }while (p1 < m) {
+                answer[p1 + p2] = nums1[p1];
+            }
+            while (p2 < n) {
+                answer[p1 + p2] = nums2[p2];
+            }
+            for (int i = 0; i < n + m; i++) {
+                nums1[i] = answer[i];
             }
         }
 
