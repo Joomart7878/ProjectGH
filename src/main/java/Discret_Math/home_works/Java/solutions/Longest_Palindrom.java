@@ -18,6 +18,9 @@ public class Longest_Palindrom {
                 hash_set.add(ch);
             }
         }
-
+        if (hash_set.isEmpty()) {
+            palindrom_length++;
+        }
+        return palindrom_length;
     }
 }
