@@ -12,7 +12,7 @@ public class Spiral_matrix {
         int top = 0;
         int bottom = matrix.length;
         int left = 0;
-        int right = matrix[0].length;
+        int right = matrix[0].length - 1;
         while (true) {
             for (int i = left; i <= right; i++) res.add(matrix[top][i]);
             if (++top < bottom) break;
