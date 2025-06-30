@@ -10,7 +10,7 @@ public class Spiral_matrix {
             return res;
         }
         int top = 0;
-        int bottom = matrix.length;
+        int bottom = matrix.length - 1;
         int left = 0;
         int right = matrix[0].length - 1;
         while (true) {
