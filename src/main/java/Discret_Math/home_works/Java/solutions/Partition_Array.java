@@ -17,6 +17,17 @@ public class Partition_Array {
                 pivotFreq++;
             }
         }
+        while (pivotFreq > 0) {
+            result[insertPosition] = pivot;
+            insertPosition++;
+            pivotFreq--;
+        }
+        for (int num : nums) {
+            if(num > pivot) {
+                result[insertPosition] = num;
+                insertPosition++;
+            }
+        }
 
     }
 }
